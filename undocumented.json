@@ -1,0 +1,75 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 31,
+      "symbol": "Signals",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 39,
+      "symbol": "Signals.Signal.hup",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 40,
+      "symbol": "Signals.Signal.int",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 41,
+      "symbol": "Signals.Signal.quit",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 42,
+      "symbol": "Signals.Signal.abrt",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 43,
+      "symbol": "Signals.Signal.kill",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 44,
+      "symbol": "Signals.Signal.alrm",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 45,
+      "symbol": "Signals.Signal.term",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 46,
+      "symbol": "Signals.Signal.pipe",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/BlueSignals/BlueSignals/Sources/Signals/Signals.swift",
+      "line": 47,
+      "symbol": "Signals.Signal.user(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/BlueSignals/BlueSignals"
+}
